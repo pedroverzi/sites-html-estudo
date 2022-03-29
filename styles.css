@@ -1,0 +1,116 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+
+    background:black;
+}
+
+.titulo { 
+
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: azure;
+}
+
+.subtitulo {
+    color: azure;
+}
+div{
+   width: 100%; /*960px*/
+    height: 100%; 
+}
+img {
+    min-width: 50%;
+    min-height: 100%;
+    width: 50%; /*960px*/
+    height: 100%; 
+    border: 3px solid white;
+}
+
+
+h1,h3 {
+    text-align: center;
+    color: dimgrey;
+}
+.rust{
+    margin-top: 20px;
+}
+
+.textrust{
+    color: yellow;
+    font-size: large;
+    
+}
+
+.videorust {
+    margin-top: 70px;
+}
+
+.rustback {
+    background-image:url(backgroundrust.png);
+}
+.titulorust {
+    color: azure;
+    font-size:50px;
+}
+
+.legendatrailer {
+    color: yellow;
+    
+}
+
+.backreddead{
+    background-image: url(backgroundreddead.png);
+}
+
+.tituloreddead {
+    color: azure;
+    font-size: 50px;
+}
+
+.textreddead {
+    color: yellow;
+    font-size: large;
+}
+
+.videoreddead {
+    margin-top: 70px;
+}
+
+.backcsgo {
+    background-image: url(backcsgo.jpg);
+}
+
+.titulocs {
+    color: azure;
+    font-size: 50px;
+}
+
+.textcsgo{
+    color: yellow;
+    font-size: large;
+}
+
+.videocsgo {
+    margin-top: 70px;
+}
+
+#backgroundeindex2 {
+    color: white;
+}
+
+/*
+.backgroundindex {
+    
+    background-image: url(backgroundindex.gif);
+}
+*/
+.tituloindex{
+    color: azure;
+}
+
+figcaption {
+    color: yellow;
+}
